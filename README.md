@@ -57,6 +57,6 @@ _Note: If some processing requires extensive time is better to run a concurrent 
 * Containers
 * Embedded Web Browsers
 
-Overall I've found Javafx applicatoins very fun to code. I'm very impress with the performance, look and feel, how easy is to learn, implement, and integrate with other Java APIs.
+Overall I've found developing Javafx applications to be quite fun and enjoyable compared to coding Swing applications. I'm very impress with the performance, look and feel, how easy is to learn, implement, and integrate with other Java APIs.
 
 Author: [Antonio Rios](www.linkedin.com/in/antonioriosjr)
