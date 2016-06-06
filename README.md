@@ -59,4 +59,4 @@ _Note: If some processing requires extensive time is better to run a concurrent 
 
 Overall I've found Javafx applicatoins very fun to code. I'm very impress with the performance, look and feel, how easy is to learn, implement, and integrate with other Java APIs.
 
-Author: [Antonio Rios](www.linkedin.com/antonioriosjr)
+Author: [Antonio Rios](www.linkedin.com/in/antonioriosjr)
