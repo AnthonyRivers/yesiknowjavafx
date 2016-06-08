@@ -1,0 +1,15 @@
+/src/bin/
+/src/*~
+/*~
+/src/Login/nbproject/private/
+/src/Login/build/
+/src/Login/dist/
+/src/Login_with_css/nbproject/private/
+/src/Login_with_css/dist/
+/src/Login_with_css/build/
+/src/LoginWithFXML/nbproject/private/
+/src/LoginWithFXML/build/
+/src/LoginWithFXML/dist/
+/src/AskMe/nbproject/private/
+/src/AskMe/build/
+/src/AskMe/dist/
